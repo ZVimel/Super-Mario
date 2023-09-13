@@ -269,7 +269,7 @@ def on_key_down(key):
         mario.vy=-800
  
  
-HEIGHT=640
+HEIGHT=768
 WIDTH=1024
 TITLE="Mario"
  
