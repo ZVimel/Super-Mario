@@ -269,8 +269,8 @@ def on_key_down(key):
         mario.vy=-800
  
  
-HEIGHT=768
-WIDTH=1024
+HEIGHT=1080
+WIDTH=1920
 TITLE="Mario"
  
 mario=Actor("smario.png",(200,HEIGHT-120))
