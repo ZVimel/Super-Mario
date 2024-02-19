@@ -2,7 +2,7 @@ python
 import pygame
 import random# 初始化游戏
 pygame.init()# 设置游戏窗口大小
-screen_width, screen_height = 800, 600
+screen_width, screen_height = 1920, 1080
 screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption("Super Mario")# 加载玛丽图片
 mario_image = pygame.image.load("mario.png")
